@@ -130,8 +130,3 @@ This repository contains a complete Java Core learning journey covering fundamen
 - ✅ Wrapper Classes
 - ✅ Inner Classes
 
-## 💻 How to Run the Programs
-
-1. **Compile Java files:**
-   ```bash
-   javac FileName.java
